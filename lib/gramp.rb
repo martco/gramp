@@ -1,3 +1,1 @@
-class Gramp
-end
-
+module Gramp; end

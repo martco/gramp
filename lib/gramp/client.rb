@@ -1,0 +1,1 @@
+class Gramp::Client; end
